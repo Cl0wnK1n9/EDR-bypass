@@ -1,0 +1,10 @@
+﻿  BypassHook.cpp
+C:\Users\demo\source\repos\BypassHook\BypassHook\BypassHook.cpp(10,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\demo\source\repos\BypassHook\BypassHook\BypassHook.cpp(11,9): error C2065: 'mov': undeclared identifier
+C:\Users\demo\source\repos\BypassHook\BypassHook\BypassHook.cpp(11,13): error C2146: syntax error: missing ';' before identifier 'rax'
+C:\Users\demo\source\repos\BypassHook\BypassHook\BypassHook.cpp(11,13): error C2065: 'rax': undeclared identifier
+C:\Users\demo\source\repos\BypassHook\BypassHook\BypassHook.cpp(12,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\demo\source\repos\BypassHook\BypassHook\BypassHook.cpp(12,9): error C2065: 'mov': undeclared identifier
+C:\Users\demo\source\repos\BypassHook\BypassHook\BypassHook.cpp(12,13): error C2146: syntax error: missing ';' before identifier 'result'
+C:\Users\demo\source\repos\BypassHook\BypassHook\BypassHook.cpp(12,21): error C2065: 'rax': undeclared identifier
+C:\Users\demo\source\repos\BypassHook\BypassHook\BypassHook.cpp(13,5): error C2143: syntax error: missing ';' before '}'
