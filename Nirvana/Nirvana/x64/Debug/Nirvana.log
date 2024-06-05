@@ -1,0 +1,3 @@
+﻿  Nirvana.cpp
+C:\Users\demo\source\repos\Nirvana\Nirvana\Nirvana.cpp(82,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPVOID'
+  Nirvana.vcxproj -> C:\Users\demo\source\repos\Nirvana\x64\Debug\Nirvana.exe

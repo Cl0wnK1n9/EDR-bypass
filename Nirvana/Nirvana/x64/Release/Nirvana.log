@@ -1,0 +1,8 @@
+﻿  Assembling callback_thunk.asm...
+  Nirvana.cpp
+C:\Users\demo\source\repos\Nirvana\Nirvana\Nirvana.cpp(86,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPVOID'
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Nirvana.vcxproj -> C:\Users\demo\source\repos\Nirvana\x64\Release\Nirvana.exe
