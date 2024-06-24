@@ -1,0 +1,7 @@
+C:\Users\test\source\repos\Dll Injection\DLL Injection\bin\x64\Debug\DLL Injection.exe.config
+C:\Users\test\source\repos\Dll Injection\DLL Injection\bin\x64\Debug\DLL Injection.exe
+C:\Users\test\source\repos\Dll Injection\DLL Injection\bin\x64\Debug\DLL Injection.pdb
+C:\Users\test\source\repos\Dll Injection\DLL Injection\obj\x64\Debug\DLL Injection.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\Dll Injection\DLL Injection\obj\x64\Debug\DLL Injection.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\Dll Injection\DLL Injection\obj\x64\Debug\DLL Injection.exe
+C:\Users\test\source\repos\Dll Injection\DLL Injection\obj\x64\Debug\DLL Injection.pdb

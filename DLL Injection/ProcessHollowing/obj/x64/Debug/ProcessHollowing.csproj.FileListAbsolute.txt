@@ -1,0 +1,7 @@
+C:\Users\test\source\repos\Dll Injection\ProcessHollowing\bin\x64\Debug\ProcessHollowing.exe.config
+C:\Users\test\source\repos\Dll Injection\ProcessHollowing\bin\x64\Debug\ProcessHollowing.exe
+C:\Users\test\source\repos\Dll Injection\ProcessHollowing\bin\x64\Debug\ProcessHollowing.pdb
+C:\Users\test\source\repos\Dll Injection\ProcessHollowing\obj\x64\Debug\ProcessHollowing.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\Dll Injection\ProcessHollowing\obj\x64\Debug\ProcessHollowing.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\Dll Injection\ProcessHollowing\obj\x64\Debug\ProcessHollowing.exe
+C:\Users\test\source\repos\Dll Injection\ProcessHollowing\obj\x64\Debug\ProcessHollowing.pdb
