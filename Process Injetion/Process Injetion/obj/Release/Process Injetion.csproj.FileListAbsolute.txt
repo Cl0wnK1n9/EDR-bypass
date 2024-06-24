@@ -1,0 +1,7 @@
+C:\Users\test\source\repos\Process Injetion\Process Injetion\bin\Release\Process Injetion.exe.config
+C:\Users\test\source\repos\Process Injetion\Process Injetion\bin\Release\Process Injetion.exe
+C:\Users\test\source\repos\Process Injetion\Process Injetion\bin\Release\Process Injetion.pdb
+C:\Users\test\source\repos\Process Injetion\Process Injetion\obj\Release\Process Injetion.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\Process Injetion\Process Injetion\obj\Release\Process Injetion.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\Process Injetion\Process Injetion\obj\Release\Process Injetion.exe
+C:\Users\test\source\repos\Process Injetion\Process Injetion\obj\Release\Process Injetion.pdb

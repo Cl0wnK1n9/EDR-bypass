@@ -1,0 +1,7 @@
+C:\Users\test\source\repos\Process Injetion\ProcessInjectionv2\bin\Debug\ProcessInjectionv2.exe.config
+C:\Users\test\source\repos\Process Injetion\ProcessInjectionv2\bin\Debug\ProcessInjectionv2.exe
+C:\Users\test\source\repos\Process Injetion\ProcessInjectionv2\bin\Debug\ProcessInjectionv2.pdb
+C:\Users\test\source\repos\Process Injetion\ProcessInjectionv2\obj\Debug\ProcessInjectionv2.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\Process Injetion\ProcessInjectionv2\obj\Debug\ProcessInjectionv2.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\Process Injetion\ProcessInjectionv2\obj\Debug\ProcessInjectionv2.exe
+C:\Users\test\source\repos\Process Injetion\ProcessInjectionv2\obj\Debug\ProcessInjectionv2.pdb
